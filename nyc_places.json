@@ -1,0 +1,1802 @@
+[
+    {
+    "name_kr": "타임스퀘어",
+    "name_en": "Times Square",
+    "category": "Landmark",
+    "address": "New York, NY 10000",
+    "latitude": 40.778512,
+    "longitude": -73.932131,
+    "description": "타임스퀘어은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "배터리 파크",
+    "name_en": "Battery Park",
+    "category": "Park",
+    "address": "New York, NY 10001",
+    "latitude": 40.740884,
+    "longitude": -73.999807,
+    "description": "배터리 파크은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "휘트니 미술관",
+    "name_en": "Whitney Museum of American Art",
+    "category": "Museum",
+    "address": "New York, NY 10002",
+    "latitude": 40.770326,
+    "longitude": -74.004076,
+    "description": "휘트니 미술관은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "버치 커피",
+    "name_en": "Birch Coffee",
+    "category": "Cafe",
+    "address": "New York, NY 10003",
+    "latitude": 40.721521,
+    "longitude": -73.990665,
+    "description": "버치 커피은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "르 버나딘",
+    "name_en": "Le Bernardin",
+    "category": "Restaurant",
+    "address": "New York, NY 10004",
+    "latitude": 40.761443,
+    "longitude": -73.930488,
+    "description": "르 버나딘은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "록펠러 센터",
+    "name_en": "Rockefeller Center",
+    "category": "Landmark",
+    "address": "New York, NY 10005",
+    "latitude": 40.791608,
+    "longitude": -73.937222,
+    "description": "록펠러 센터은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "배터리 파크",
+    "name_en": "Battery Park",
+    "category": "Park",
+    "address": "New York, NY 10006",
+    "latitude": 40.717629,
+    "longitude": -73.954165,
+    "description": "배터리 파크은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "클로이스터스",
+    "name_en": "The Cloisters",
+    "category": "Museum",
+    "address": "New York, NY 10007",
+    "latitude": 40.747339,
+    "longitude": -74.00689,
+    "description": "클로이스터스은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "버치 커피",
+    "name_en": "Birch Coffee",
+    "category": "Cafe",
+    "address": "New York, NY 10008",
+    "latitude": 40.808632,
+    "longitude": -73.956649,
+    "description": "버치 커피은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "루벤스",
+    "name_en": "Rubens",
+    "category": "Restaurant",
+    "address": "New York, NY 10009",
+    "latitude": 40.729649,
+    "longitude": -73.950214,
+    "description": "루벤스은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "브루클린 브리지",
+    "name_en": "Brooklyn Bridge",
+    "category": "Landmark",
+    "address": "New York, NY 10010",
+    "latitude": 40.785093,
+    "longitude": -73.949337,
+    "description": "브루클린 브리지은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "루즈벨트 아일랜드 파크",
+    "name_en": "Roosevelt Island Park",
+    "category": "Park",
+    "address": "New York, NY 10011",
+    "latitude": 40.761925,
+    "longitude": -73.942014,
+    "description": "루즈벨트 아일랜드 파크은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "클로이스터스",
+    "name_en": "The Cloisters",
+    "category": "Museum",
+    "address": "New York, NY 10012",
+    "latitude": 40.799639,
+    "longitude": -73.948463,
+    "description": "클로이스터스은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "버치 커피",
+    "name_en": "Birch Coffee",
+    "category": "Cafe",
+    "address": "New York, NY 10013",
+    "latitude": 40.79115,
+    "longitude": -73.995065,
+    "description": "버치 커피은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "루벤스",
+    "name_en": "Rubens",
+    "category": "Restaurant",
+    "address": "New York, NY 10014",
+    "latitude": 40.73954,
+    "longitude": -74.018246,
+    "description": "루벤스은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "엠파이어 스테이트 빌딩",
+    "name_en": "Empire State Building",
+    "category": "Landmark",
+    "address": "New York, NY 10015",
+    "latitude": 40.755734,
+    "longitude": -74.006376,
+    "description": "엠파이어 스테이트 빌딩은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "하이라인",
+    "name_en": "The High Line",
+    "category": "Park",
+    "address": "New York, NY 10016",
+    "latitude": 40.747288,
+    "longitude": -73.993578,
+    "description": "하이라인은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "휘트니 미술관",
+    "name_en": "Whitney Museum of American Art",
+    "category": "Museum",
+    "address": "New York, NY 10017",
+    "latitude": 40.774427,
+    "longitude": -73.938336,
+    "description": "휘트니 미술관은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "그래드센트 커피",
+    "name_en": "Ground Central Coffee Company",
+    "category": "Cafe",
+    "address": "New York, NY 10018",
+    "latitude": 40.725276,
+    "longitude": -74.019308,
+    "description": "그래드센트 커피은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "르 버나딘",
+    "name_en": "Le Bernardin",
+    "category": "Restaurant",
+    "address": "New York, NY 10019",
+    "latitude": 40.81428,
+    "longitude": -73.953965,
+    "description": "르 버나딘은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "록펠러 센터",
+    "name_en": "Rockefeller Center",
+    "category": "Landmark",
+    "address": "New York, NY 10020",
+    "latitude": 40.805314,
+    "longitude": -73.988825,
+    "description": "록펠러 센터은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "하이라인",
+    "name_en": "The High Line",
+    "category": "Park",
+    "address": "New York, NY 10021",
+    "latitude": 40.809052,
+    "longitude": -73.984909,
+    "description": "하이라인은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "뉴욕시 박물관",
+    "name_en": "Museum of the City of New York",
+    "category": "Museum",
+    "address": "New York, NY 10022",
+    "latitude": 40.776865,
+    "longitude": -73.972317,
+    "description": "뉴욕시 박물관은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "그래드센트 커피",
+    "name_en": "Ground Central Coffee Company",
+    "category": "Cafe",
+    "address": "New York, NY 10023",
+    "latitude": 40.806782,
+    "longitude": -73.95673,
+    "description": "그래드센트 커피은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "르 버나딘",
+    "name_en": "Le Bernardin",
+    "category": "Restaurant",
+    "address": "New York, NY 10024",
+    "latitude": 40.801303,
+    "longitude": -73.990846,
+    "description": "르 버나딘은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "타임스퀘어",
+    "name_en": "Times Square",
+    "category": "Landmark",
+    "address": "New York, NY 10025",
+    "latitude": 40.771457,
+    "longitude": -73.948554,
+    "description": "타임스퀘어은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "브라이언트 파크",
+    "name_en": "Bryant Park",
+    "category": "Park",
+    "address": "New York, NY 10026",
+    "latitude": 40.76002,
+    "longitude": -73.980368,
+    "description": "브라이언트 파크은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "클로이스터스",
+    "name_en": "The Cloisters",
+    "category": "Museum",
+    "address": "New York, NY 10027",
+    "latitude": 40.786643,
+    "longitude": -73.993893,
+    "description": "클로이스터스은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "세븐 그램 커피",
+    "name_en": "Seven Grams Caffe",
+    "category": "Cafe",
+    "address": "New York, NY 10028",
+    "latitude": 40.773463,
+    "longitude": -73.947664,
+    "description": "세븐 그램 커피은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "르 버나딘",
+    "name_en": "Le Bernardin",
+    "category": "Restaurant",
+    "address": "New York, NY 10029",
+    "latitude": 40.774391,
+    "longitude": -73.998182,
+    "description": "르 버나딘은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "브루클린 브리지",
+    "name_en": "Brooklyn Bridge",
+    "category": "Landmark",
+    "address": "New York, NY 10030",
+    "latitude": 40.716305,
+    "longitude": -73.967284,
+    "description": "브루클린 브리지은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "브라이언트 파크",
+    "name_en": "Bryant Park",
+    "category": "Park",
+    "address": "New York, NY 10031",
+    "latitude": 40.762999,
+    "longitude": -73.938667,
+    "description": "브라이언트 파크은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "휘트니 미술관",
+    "name_en": "Whitney Museum of American Art",
+    "category": "Museum",
+    "address": "New York, NY 10032",
+    "latitude": 40.73909,
+    "longitude": -73.989238,
+    "description": "휘트니 미술관은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "블루보틀 커피",
+    "name_en": "Blue Bottle Coffee",
+    "category": "Cafe",
+    "address": "New York, NY 10033",
+    "latitude": 40.8095,
+    "longitude": -73.939558,
+    "description": "블루보틀 커피은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "르 버나딘",
+    "name_en": "Le Bernardin",
+    "category": "Restaurant",
+    "address": "New York, NY 10034",
+    "latitude": 40.719264,
+    "longitude": -73.962449,
+    "description": "르 버나딘은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "록펠러 센터",
+    "name_en": "Rockefeller Center",
+    "category": "Landmark",
+    "address": "New York, NY 10035",
+    "latitude": 40.710587,
+    "longitude": -73.958049,
+    "description": "록펠러 센터은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "브라이언트 파크",
+    "name_en": "Bryant Park",
+    "category": "Park",
+    "address": "New York, NY 10036",
+    "latitude": 40.768684,
+    "longitude": -73.987342,
+    "description": "브라이언트 파크은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "뉴욕시 박물관",
+    "name_en": "Museum of the City of New York",
+    "category": "Museum",
+    "address": "New York, NY 10037",
+    "latitude": 40.73775,
+    "longitude": -74.018322,
+    "description": "뉴욕시 박물관은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "블루보틀 커피",
+    "name_en": "Blue Bottle Coffee",
+    "category": "Cafe",
+    "address": "New York, NY 10038",
+    "latitude": 40.773223,
+    "longitude": -73.966032,
+    "description": "블루보틀 커피은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "루벤스",
+    "name_en": "Rubens",
+    "category": "Restaurant",
+    "address": "New York, NY 10039",
+    "latitude": 40.780307,
+    "longitude": -74.016768,
+    "description": "루벤스은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "브루클린 브리지",
+    "name_en": "Brooklyn Bridge",
+    "category": "Landmark",
+    "address": "New York, NY 10040",
+    "latitude": 40.729006,
+    "longitude": -73.949535,
+    "description": "브루클린 브리지은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "하이라인",
+    "name_en": "The High Line",
+    "category": "Park",
+    "address": "New York, NY 10041",
+    "latitude": 40.713426,
+    "longitude": -73.975468,
+    "description": "하이라인은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "뉴욕시 박물관",
+    "name_en": "Museum of the City of New York",
+    "category": "Museum",
+    "address": "New York, NY 10042",
+    "latitude": 40.765219,
+    "longitude": -73.944208,
+    "description": "뉴욕시 박물관은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "스타벅스 리저브",
+    "name_en": "Starbucks Reserve",
+    "category": "Cafe",
+    "address": "New York, NY 10043",
+    "latitude": 40.716774,
+    "longitude": -73.982688,
+    "description": "스타벅스 리저브은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "르 버나딘",
+    "name_en": "Le Bernardin",
+    "category": "Restaurant",
+    "address": "New York, NY 10044",
+    "latitude": 40.748432,
+    "longitude": -73.93763,
+    "description": "르 버나딘은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "월스트리트 황소상",
+    "name_en": "Charging Bull",
+    "category": "Landmark",
+    "address": "New York, NY 10045",
+    "latitude": 40.759373,
+    "longitude": -73.932066,
+    "description": "월스트리트 황소상은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "워싱턴 스퀘어 파크",
+    "name_en": "Washington Square Park",
+    "category": "Park",
+    "address": "New York, NY 10046",
+    "latitude": 40.746298,
+    "longitude": -73.949344,
+    "description": "워싱턴 스퀘어 파크은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "클로이스터스",
+    "name_en": "The Cloisters",
+    "category": "Museum",
+    "address": "New York, NY 10047",
+    "latitude": 40.797395,
+    "longitude": -73.935331,
+    "description": "클로이스터스은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "스타벅스 리저브",
+    "name_en": "Starbucks Reserve",
+    "category": "Cafe",
+    "address": "New York, NY 10048",
+    "latitude": 40.757663,
+    "longitude": -73.93844,
+    "description": "스타벅스 리저브은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "르 버나딘",
+    "name_en": "Le Bernardin",
+    "category": "Restaurant",
+    "address": "New York, NY 10049",
+    "latitude": 40.819334,
+    "longitude": -73.937244,
+    "description": "르 버나딘은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "월스트리트 황소상",
+    "name_en": "Charging Bull",
+    "category": "Landmark",
+    "address": "New York, NY 10050",
+    "latitude": 40.736003,
+    "longitude": -73.973746,
+    "description": "월스트리트 황소상은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "배터리 파크",
+    "name_en": "Battery Park",
+    "category": "Park",
+    "address": "New York, NY 10051",
+    "latitude": 40.776885,
+    "longitude": -73.949587,
+    "description": "배터리 파크은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "휘트니 미술관",
+    "name_en": "Whitney Museum of American Art",
+    "category": "Museum",
+    "address": "New York, NY 10052",
+    "latitude": 40.724532,
+    "longitude": -74.000182,
+    "description": "휘트니 미술관은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "버치 커피",
+    "name_en": "Birch Coffee",
+    "category": "Cafe",
+    "address": "New York, NY 10053",
+    "latitude": 40.789639,
+    "longitude": -73.959439,
+    "description": "버치 커피은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "미션 차이나",
+    "name_en": "Mission Chinese Food",
+    "category": "Restaurant",
+    "address": "New York, NY 10054",
+    "latitude": 40.70358,
+    "longitude": -73.953467,
+    "description": "미션 차이나은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "록펠러 센터",
+    "name_en": "Rockefeller Center",
+    "category": "Landmark",
+    "address": "New York, NY 10055",
+    "latitude": 40.810335,
+    "longitude": -73.977792,
+    "description": "록펠러 센터은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "브라이언트 파크",
+    "name_en": "Bryant Park",
+    "category": "Park",
+    "address": "New York, NY 10056",
+    "latitude": 40.775342,
+    "longitude": -73.940259,
+    "description": "브라이언트 파크은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "클로이스터스",
+    "name_en": "The Cloisters",
+    "category": "Museum",
+    "address": "New York, NY 10057",
+    "latitude": 40.798015,
+    "longitude": -73.990808,
+    "description": "클로이스터스은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "세븐 그램 커피",
+    "name_en": "Seven Grams Caffe",
+    "category": "Cafe",
+    "address": "New York, NY 10058",
+    "latitude": 40.817673,
+    "longitude": -73.950435,
+    "description": "세븐 그램 커피은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "미션 차이나",
+    "name_en": "Mission Chinese Food",
+    "category": "Restaurant",
+    "address": "New York, NY 10059",
+    "latitude": 40.812002,
+    "longitude": -73.989562,
+    "description": "미션 차이나은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "브루클린 브리지",
+    "name_en": "Brooklyn Bridge",
+    "category": "Landmark",
+    "address": "New York, NY 10060",
+    "latitude": 40.736734,
+    "longitude": -73.955064,
+    "description": "브루클린 브리지은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "브라이언트 파크",
+    "name_en": "Bryant Park",
+    "category": "Park",
+    "address": "New York, NY 10061",
+    "latitude": 40.706774,
+    "longitude": -74.004413,
+    "description": "브라이언트 파크은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "휘트니 미술관",
+    "name_en": "Whitney Museum of American Art",
+    "category": "Museum",
+    "address": "New York, NY 10062",
+    "latitude": 40.727147,
+    "longitude": -74.016131,
+    "description": "휘트니 미술관은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "세븐 그램 커피",
+    "name_en": "Seven Grams Caffe",
+    "category": "Cafe",
+    "address": "New York, NY 10063",
+    "latitude": 40.729402,
+    "longitude": -73.950455,
+    "description": "세븐 그램 커피은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "루벤스",
+    "name_en": "Rubens",
+    "category": "Restaurant",
+    "address": "New York, NY 10064",
+    "latitude": 40.737044,
+    "longitude": -73.951293,
+    "description": "루벤스은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "타임스퀘어",
+    "name_en": "Times Square",
+    "category": "Landmark",
+    "address": "New York, NY 10065",
+    "latitude": 40.803134,
+    "longitude": -73.974956,
+    "description": "타임스퀘어은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "워싱턴 스퀘어 파크",
+    "name_en": "Washington Square Park",
+    "category": "Park",
+    "address": "New York, NY 10066",
+    "latitude": 40.768354,
+    "longitude": -73.947126,
+    "description": "워싱턴 스퀘어 파크은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "현대미술관",
+    "name_en": "Museum of Modern Art",
+    "category": "Museum",
+    "address": "New York, NY 10067",
+    "latitude": 40.785545,
+    "longitude": -73.932364,
+    "description": "현대미술관은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "스타벅스 리저브",
+    "name_en": "Starbucks Reserve",
+    "category": "Cafe",
+    "address": "New York, NY 10068",
+    "latitude": 40.768001,
+    "longitude": -74.017245,
+    "description": "스타벅스 리저브은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "쉐이크쉑",
+    "name_en": "Shake Shack",
+    "category": "Restaurant",
+    "address": "New York, NY 10069",
+    "latitude": 40.73567,
+    "longitude": -74.000903,
+    "description": "쉐이크쉑은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "엠파이어 스테이트 빌딩",
+    "name_en": "Empire State Building",
+    "category": "Landmark",
+    "address": "New York, NY 10070",
+    "latitude": 40.714484,
+    "longitude": -73.963306,
+    "description": "엠파이어 스테이트 빌딩은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "워싱턴 스퀘어 파크",
+    "name_en": "Washington Square Park",
+    "category": "Park",
+    "address": "New York, NY 10071",
+    "latitude": 40.793272,
+    "longitude": -73.979154,
+    "description": "워싱턴 스퀘어 파크은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "휘트니 미술관",
+    "name_en": "Whitney Museum of American Art",
+    "category": "Museum",
+    "address": "New York, NY 10072",
+    "latitude": 40.763292,
+    "longitude": -73.979147,
+    "description": "휘트니 미술관은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "세븐 그램 커피",
+    "name_en": "Seven Grams Caffe",
+    "category": "Cafe",
+    "address": "New York, NY 10073",
+    "latitude": 40.700087,
+    "longitude": -73.97852,
+    "description": "세븐 그램 커피은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "루벤스",
+    "name_en": "Rubens",
+    "category": "Restaurant",
+    "address": "New York, NY 10074",
+    "latitude": 40.805274,
+    "longitude": -73.973299,
+    "description": "루벤스은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "록펠러 센터",
+    "name_en": "Rockefeller Center",
+    "category": "Landmark",
+    "address": "New York, NY 10075",
+    "latitude": 40.702918,
+    "longitude": -74.002588,
+    "description": "록펠러 센터은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "워싱턴 스퀘어 파크",
+    "name_en": "Washington Square Park",
+    "category": "Park",
+    "address": "New York, NY 10076",
+    "latitude": 40.785793,
+    "longitude": -73.978152,
+    "description": "워싱턴 스퀘어 파크은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "뉴욕시 박물관",
+    "name_en": "Museum of the City of New York",
+    "category": "Museum",
+    "address": "New York, NY 10077",
+    "latitude": 40.730407,
+    "longitude": -74.017395,
+    "description": "뉴욕시 박물관은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "버치 커피",
+    "name_en": "Birch Coffee",
+    "category": "Cafe",
+    "address": "New York, NY 10078",
+    "latitude": 40.776366,
+    "longitude": -73.977474,
+    "description": "버치 커피은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "미션 차이나",
+    "name_en": "Mission Chinese Food",
+    "category": "Restaurant",
+    "address": "New York, NY 10079",
+    "latitude": 40.769431,
+    "longitude": -73.936011,
+    "description": "미션 차이나은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "월스트리트 황소상",
+    "name_en": "Charging Bull",
+    "category": "Landmark",
+    "address": "New York, NY 10080",
+    "latitude": 40.708809,
+    "longitude": -73.9401,
+    "description": "월스트리트 황소상은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "배터리 파크",
+    "name_en": "Battery Park",
+    "category": "Park",
+    "address": "New York, NY 10081",
+    "latitude": 40.734084,
+    "longitude": -74.009372,
+    "description": "배터리 파크은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "클로이스터스",
+    "name_en": "The Cloisters",
+    "category": "Museum",
+    "address": "New York, NY 10082",
+    "latitude": 40.72973,
+    "longitude": -73.955576,
+    "description": "클로이스터스은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "블루보틀 커피",
+    "name_en": "Blue Bottle Coffee",
+    "category": "Cafe",
+    "address": "New York, NY 10083",
+    "latitude": 40.803233,
+    "longitude": -73.974335,
+    "description": "블루보틀 커피은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "카츠 델리",
+    "name_en": "Katz's Delicatessen",
+    "category": "Restaurant",
+    "address": "New York, NY 10084",
+    "latitude": 40.707071,
+    "longitude": -73.986933,
+    "description": "카츠 델리은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "타임스퀘어",
+    "name_en": "Times Square",
+    "category": "Landmark",
+    "address": "New York, NY 10085",
+    "latitude": 40.756477,
+    "longitude": -73.994657,
+    "description": "타임스퀘어은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "하이라인",
+    "name_en": "The High Line",
+    "category": "Park",
+    "address": "New York, NY 10086",
+    "latitude": 40.745608,
+    "longitude": -73.994091,
+    "description": "하이라인은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "현대미술관",
+    "name_en": "Museum of Modern Art",
+    "category": "Museum",
+    "address": "New York, NY 10087",
+    "latitude": 40.755287,
+    "longitude": -73.974142,
+    "description": "현대미술관은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "블루보틀 커피",
+    "name_en": "Blue Bottle Coffee",
+    "category": "Cafe",
+    "address": "New York, NY 10088",
+    "latitude": 40.818856,
+    "longitude": -73.99181,
+    "description": "블루보틀 커피은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "르 버나딘",
+    "name_en": "Le Bernardin",
+    "category": "Restaurant",
+    "address": "New York, NY 10089",
+    "latitude": 40.783964,
+    "longitude": -73.997986,
+    "description": "르 버나딘은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "엠파이어 스테이트 빌딩",
+    "name_en": "Empire State Building",
+    "category": "Landmark",
+    "address": "New York, NY 10090",
+    "latitude": 40.700997,
+    "longitude": -73.944405,
+    "description": "엠파이어 스테이트 빌딩은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "루즈벨트 아일랜드 파크",
+    "name_en": "Roosevelt Island Park",
+    "category": "Park",
+    "address": "New York, NY 10091",
+    "latitude": 40.783701,
+    "longitude": -73.981865,
+    "description": "루즈벨트 아일랜드 파크은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "뉴욕시 박물관",
+    "name_en": "Museum of the City of New York",
+    "category": "Museum",
+    "address": "New York, NY 10092",
+    "latitude": 40.776007,
+    "longitude": -73.930756,
+    "description": "뉴욕시 박물관은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "버치 커피",
+    "name_en": "Birch Coffee",
+    "category": "Cafe",
+    "address": "New York, NY 10093",
+    "latitude": 40.777649,
+    "longitude": -73.982191,
+    "description": "버치 커피은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "르 버나딘",
+    "name_en": "Le Bernardin",
+    "category": "Restaurant",
+    "address": "New York, NY 10094",
+    "latitude": 40.703036,
+    "longitude": -73.96208,
+    "description": "르 버나딘은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "브루클린 브리지",
+    "name_en": "Brooklyn Bridge",
+    "category": "Landmark",
+    "address": "New York, NY 10095",
+    "latitude": 40.764877,
+    "longitude": -73.994494,
+    "description": "브루클린 브리지은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "하이라인",
+    "name_en": "The High Line",
+    "category": "Park",
+    "address": "New York, NY 10096",
+    "latitude": 40.793444,
+    "longitude": -73.962265,
+    "description": "하이라인은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "현대미술관",
+    "name_en": "Museum of Modern Art",
+    "category": "Museum",
+    "address": "New York, NY 10097",
+    "latitude": 40.703067,
+    "longitude": -74.007116,
+    "description": "현대미술관은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "스타벅스 리저브",
+    "name_en": "Starbucks Reserve",
+    "category": "Cafe",
+    "address": "New York, NY 10098",
+    "latitude": 40.769951,
+    "longitude": -74.013975,
+    "description": "스타벅스 리저브은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "미션 차이나",
+    "name_en": "Mission Chinese Food",
+    "category": "Restaurant",
+    "address": "New York, NY 10099",
+    "latitude": 40.765881,
+    "longitude": -73.987914,
+    "description": "미션 차이나은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "브루클린 브리지",
+    "name_en": "Brooklyn Bridge",
+    "category": "Landmark",
+    "address": "New York, NY 10100",
+    "latitude": 40.80194,
+    "longitude": -73.998881,
+    "description": "브루클린 브리지은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "루즈벨트 아일랜드 파크",
+    "name_en": "Roosevelt Island Park",
+    "category": "Park",
+    "address": "New York, NY 10101",
+    "latitude": 40.709399,
+    "longitude": -73.934896,
+    "description": "루즈벨트 아일랜드 파크은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "현대미술관",
+    "name_en": "Museum of Modern Art",
+    "category": "Museum",
+    "address": "New York, NY 10102",
+    "latitude": 40.791966,
+    "longitude": -73.970419,
+    "description": "현대미술관은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "그래드센트 커피",
+    "name_en": "Ground Central Coffee Company",
+    "category": "Cafe",
+    "address": "New York, NY 10103",
+    "latitude": 40.749036,
+    "longitude": -73.983367,
+    "description": "그래드센트 커피은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "루벤스",
+    "name_en": "Rubens",
+    "category": "Restaurant",
+    "address": "New York, NY 10104",
+    "latitude": 40.801663,
+    "longitude": -73.948951,
+    "description": "루벤스은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "록펠러 센터",
+    "name_en": "Rockefeller Center",
+    "category": "Landmark",
+    "address": "New York, NY 10105",
+    "latitude": 40.805608,
+    "longitude": -74.017148,
+    "description": "록펠러 센터은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "루즈벨트 아일랜드 파크",
+    "name_en": "Roosevelt Island Park",
+    "category": "Park",
+    "address": "New York, NY 10106",
+    "latitude": 40.772254,
+    "longitude": -73.999035,
+    "description": "루즈벨트 아일랜드 파크은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "휘트니 미술관",
+    "name_en": "Whitney Museum of American Art",
+    "category": "Museum",
+    "address": "New York, NY 10107",
+    "latitude": 40.77589,
+    "longitude": -73.993249,
+    "description": "휘트니 미술관은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "버치 커피",
+    "name_en": "Birch Coffee",
+    "category": "Cafe",
+    "address": "New York, NY 10108",
+    "latitude": 40.738879,
+    "longitude": -74.007789,
+    "description": "버치 커피은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "쉐이크쉑",
+    "name_en": "Shake Shack",
+    "category": "Restaurant",
+    "address": "New York, NY 10109",
+    "latitude": 40.707068,
+    "longitude": -74.016101,
+    "description": "쉐이크쉑은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "엠파이어 스테이트 빌딩",
+    "name_en": "Empire State Building",
+    "category": "Landmark",
+    "address": "New York, NY 10110",
+    "latitude": 40.773265,
+    "longitude": -73.939497,
+    "description": "엠파이어 스테이트 빌딩은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "루즈벨트 아일랜드 파크",
+    "name_en": "Roosevelt Island Park",
+    "category": "Park",
+    "address": "New York, NY 10111",
+    "latitude": 40.722536,
+    "longitude": -73.953787,
+    "description": "루즈벨트 아일랜드 파크은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "클로이스터스",
+    "name_en": "The Cloisters",
+    "category": "Museum",
+    "address": "New York, NY 10112",
+    "latitude": 40.79528,
+    "longitude": -73.975945,
+    "description": "클로이스터스은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "스타벅스 리저브",
+    "name_en": "Starbucks Reserve",
+    "category": "Cafe",
+    "address": "New York, NY 10113",
+    "latitude": 40.723252,
+    "longitude": -73.973108,
+    "description": "스타벅스 리저브은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "쉐이크쉑",
+    "name_en": "Shake Shack",
+    "category": "Restaurant",
+    "address": "New York, NY 10114",
+    "latitude": 40.760697,
+    "longitude": -73.995651,
+    "description": "쉐이크쉑은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "록펠러 센터",
+    "name_en": "Rockefeller Center",
+    "category": "Landmark",
+    "address": "New York, NY 10115",
+    "latitude": 40.73843,
+    "longitude": -73.943576,
+    "description": "록펠러 센터은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "브라이언트 파크",
+    "name_en": "Bryant Park",
+    "category": "Park",
+    "address": "New York, NY 10116",
+    "latitude": 40.818916,
+    "longitude": -73.995979,
+    "description": "브라이언트 파크은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "뉴욕시 박물관",
+    "name_en": "Museum of the City of New York",
+    "category": "Museum",
+    "address": "New York, NY 10117",
+    "latitude": 40.747002,
+    "longitude": -73.960963,
+    "description": "뉴욕시 박물관은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "블루보틀 커피",
+    "name_en": "Blue Bottle Coffee",
+    "category": "Cafe",
+    "address": "New York, NY 10118",
+    "latitude": 40.721657,
+    "longitude": -73.936692,
+    "description": "블루보틀 커피은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "르 버나딘",
+    "name_en": "Le Bernardin",
+    "category": "Restaurant",
+    "address": "New York, NY 10119",
+    "latitude": 40.732039,
+    "longitude": -73.986086,
+    "description": "르 버나딘은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "엠파이어 스테이트 빌딩",
+    "name_en": "Empire State Building",
+    "category": "Landmark",
+    "address": "New York, NY 10120",
+    "latitude": 40.772142,
+    "longitude": -73.991015,
+    "description": "엠파이어 스테이트 빌딩은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "루즈벨트 아일랜드 파크",
+    "name_en": "Roosevelt Island Park",
+    "category": "Park",
+    "address": "New York, NY 10121",
+    "latitude": 40.726052,
+    "longitude": -73.93015,
+    "description": "루즈벨트 아일랜드 파크은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "클로이스터스",
+    "name_en": "The Cloisters",
+    "category": "Museum",
+    "address": "New York, NY 10122",
+    "latitude": 40.730006,
+    "longitude": -73.984474,
+    "description": "클로이스터스은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "버치 커피",
+    "name_en": "Birch Coffee",
+    "category": "Cafe",
+    "address": "New York, NY 10123",
+    "latitude": 40.790303,
+    "longitude": -73.952848,
+    "description": "버치 커피은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "쉐이크쉑",
+    "name_en": "Shake Shack",
+    "category": "Restaurant",
+    "address": "New York, NY 10124",
+    "latitude": 40.718768,
+    "longitude": -73.954972,
+    "description": "쉐이크쉑은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "월스트리트 황소상",
+    "name_en": "Charging Bull",
+    "category": "Landmark",
+    "address": "New York, NY 10125",
+    "latitude": 40.71771,
+    "longitude": -73.976227,
+    "description": "월스트리트 황소상은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "배터리 파크",
+    "name_en": "Battery Park",
+    "category": "Park",
+    "address": "New York, NY 10126",
+    "latitude": 40.763169,
+    "longitude": -74.007403,
+    "description": "배터리 파크은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "뉴욕시 박물관",
+    "name_en": "Museum of the City of New York",
+    "category": "Museum",
+    "address": "New York, NY 10127",
+    "latitude": 40.758244,
+    "longitude": -73.950975,
+    "description": "뉴욕시 박물관은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "블루보틀 커피",
+    "name_en": "Blue Bottle Coffee",
+    "category": "Cafe",
+    "address": "New York, NY 10128",
+    "latitude": 40.806727,
+    "longitude": -73.985952,
+    "description": "블루보틀 커피은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "르 버나딘",
+    "name_en": "Le Bernardin",
+    "category": "Restaurant",
+    "address": "New York, NY 10129",
+    "latitude": 40.703875,
+    "longitude": -74.019714,
+    "description": "르 버나딘은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "록펠러 센터",
+    "name_en": "Rockefeller Center",
+    "category": "Landmark",
+    "address": "New York, NY 10130",
+    "latitude": 40.810378,
+    "longitude": -73.950793,
+    "description": "록펠러 센터은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "하이라인",
+    "name_en": "The High Line",
+    "category": "Park",
+    "address": "New York, NY 10131",
+    "latitude": 40.734318,
+    "longitude": -73.985738,
+    "description": "하이라인은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "뉴욕시 박물관",
+    "name_en": "Museum of the City of New York",
+    "category": "Museum",
+    "address": "New York, NY 10132",
+    "latitude": 40.759893,
+    "longitude": -74.001185,
+    "description": "뉴욕시 박물관은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "버치 커피",
+    "name_en": "Birch Coffee",
+    "category": "Cafe",
+    "address": "New York, NY 10133",
+    "latitude": 40.768494,
+    "longitude": -73.946554,
+    "description": "버치 커피은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "미션 차이나",
+    "name_en": "Mission Chinese Food",
+    "category": "Restaurant",
+    "address": "New York, NY 10134",
+    "latitude": 40.79737,
+    "longitude": -73.937394,
+    "description": "미션 차이나은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "록펠러 센터",
+    "name_en": "Rockefeller Center",
+    "category": "Landmark",
+    "address": "New York, NY 10135",
+    "latitude": 40.717457,
+    "longitude": -73.999442,
+    "description": "록펠러 센터은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "루즈벨트 아일랜드 파크",
+    "name_en": "Roosevelt Island Park",
+    "category": "Park",
+    "address": "New York, NY 10136",
+    "latitude": 40.709341,
+    "longitude": -74.011998,
+    "description": "루즈벨트 아일랜드 파크은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "클로이스터스",
+    "name_en": "The Cloisters",
+    "category": "Museum",
+    "address": "New York, NY 10137",
+    "latitude": 40.727635,
+    "longitude": -73.985939,
+    "description": "클로이스터스은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "버치 커피",
+    "name_en": "Birch Coffee",
+    "category": "Cafe",
+    "address": "New York, NY 10138",
+    "latitude": 40.751587,
+    "longitude": -74.019376,
+    "description": "버치 커피은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "카츠 델리",
+    "name_en": "Katz's Delicatessen",
+    "category": "Restaurant",
+    "address": "New York, NY 10139",
+    "latitude": 40.720678,
+    "longitude": -73.964457,
+    "description": "카츠 델리은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "엠파이어 스테이트 빌딩",
+    "name_en": "Empire State Building",
+    "category": "Landmark",
+    "address": "New York, NY 10140",
+    "latitude": 40.755582,
+    "longitude": -74.01623,
+    "description": "엠파이어 스테이트 빌딩은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "워싱턴 스퀘어 파크",
+    "name_en": "Washington Square Park",
+    "category": "Park",
+    "address": "New York, NY 10141",
+    "latitude": 40.771653,
+    "longitude": -74.007796,
+    "description": "워싱턴 스퀘어 파크은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "구겐하임 미술관",
+    "name_en": "Guggenheim Museum",
+    "category": "Museum",
+    "address": "New York, NY 10142",
+    "latitude": 40.719086,
+    "longitude": -73.942828,
+    "description": "구겐하임 미술관은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "버치 커피",
+    "name_en": "Birch Coffee",
+    "category": "Cafe",
+    "address": "New York, NY 10143",
+    "latitude": 40.783665,
+    "longitude": -73.932187,
+    "description": "버치 커피은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "카츠 델리",
+    "name_en": "Katz's Delicatessen",
+    "category": "Restaurant",
+    "address": "New York, NY 10144",
+    "latitude": 40.72848,
+    "longitude": -73.986258,
+    "description": "카츠 델리은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "월스트리트 황소상",
+    "name_en": "Charging Bull",
+    "category": "Landmark",
+    "address": "New York, NY 10145",
+    "latitude": 40.790898,
+    "longitude": -73.985675,
+    "description": "월스트리트 황소상은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "브라이언트 파크",
+    "name_en": "Bryant Park",
+    "category": "Park",
+    "address": "New York, NY 10146",
+    "latitude": 40.812394,
+    "longitude": -73.953905,
+    "description": "브라이언트 파크은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "구겐하임 미술관",
+    "name_en": "Guggenheim Museum",
+    "category": "Museum",
+    "address": "New York, NY 10147",
+    "latitude": 40.805229,
+    "longitude": -73.982536,
+    "description": "구겐하임 미술관은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "버치 커피",
+    "name_en": "Birch Coffee",
+    "category": "Cafe",
+    "address": "New York, NY 10148",
+    "latitude": 40.708451,
+    "longitude": -73.943321,
+    "description": "버치 커피은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "르 버나딘",
+    "name_en": "Le Bernardin",
+    "category": "Restaurant",
+    "address": "New York, NY 10149",
+    "latitude": 40.815609,
+    "longitude": -73.9936,
+    "description": "르 버나딘은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "브루클린 브리지",
+    "name_en": "Brooklyn Bridge",
+    "category": "Landmark",
+    "address": "New York, NY 10150",
+    "latitude": 40.720822,
+    "longitude": -73.949005,
+    "description": "브루클린 브리지은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "배터리 파크",
+    "name_en": "Battery Park",
+    "category": "Park",
+    "address": "New York, NY 10151",
+    "latitude": 40.710122,
+    "longitude": -74.01377,
+    "description": "배터리 파크은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "클로이스터스",
+    "name_en": "The Cloisters",
+    "category": "Museum",
+    "address": "New York, NY 10152",
+    "latitude": 40.77806,
+    "longitude": -73.997545,
+    "description": "클로이스터스은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "버치 커피",
+    "name_en": "Birch Coffee",
+    "category": "Cafe",
+    "address": "New York, NY 10153",
+    "latitude": 40.759331,
+    "longitude": -73.95627,
+    "description": "버치 커피은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "루벤스",
+    "name_en": "Rubens",
+    "category": "Restaurant",
+    "address": "New York, NY 10154",
+    "latitude": 40.750412,
+    "longitude": -73.975803,
+    "description": "루벤스은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "브루클린 브리지",
+    "name_en": "Brooklyn Bridge",
+    "category": "Landmark",
+    "address": "New York, NY 10155",
+    "latitude": 40.703796,
+    "longitude": -73.935342,
+    "description": "브루클린 브리지은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "배터리 파크",
+    "name_en": "Battery Park",
+    "category": "Park",
+    "address": "New York, NY 10156",
+    "latitude": 40.804222,
+    "longitude": -73.977936,
+    "description": "배터리 파크은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "휘트니 미술관",
+    "name_en": "Whitney Museum of American Art",
+    "category": "Museum",
+    "address": "New York, NY 10157",
+    "latitude": 40.818961,
+    "longitude": -73.930697,
+    "description": "휘트니 미술관은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "스타벅스 리저브",
+    "name_en": "Starbucks Reserve",
+    "category": "Cafe",
+    "address": "New York, NY 10158",
+    "latitude": 40.805302,
+    "longitude": -73.94103,
+    "description": "스타벅스 리저브은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "루벤스",
+    "name_en": "Rubens",
+    "category": "Restaurant",
+    "address": "New York, NY 10159",
+    "latitude": 40.757972,
+    "longitude": -74.003135,
+    "description": "루벤스은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "브루클린 브리지",
+    "name_en": "Brooklyn Bridge",
+    "category": "Landmark",
+    "address": "New York, NY 10160",
+    "latitude": 40.740992,
+    "longitude": -73.943264,
+    "description": "브루클린 브리지은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "루즈벨트 아일랜드 파크",
+    "name_en": "Roosevelt Island Park",
+    "category": "Park",
+    "address": "New York, NY 10161",
+    "latitude": 40.704591,
+    "longitude": -74.0042,
+    "description": "루즈벨트 아일랜드 파크은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "구겐하임 미술관",
+    "name_en": "Guggenheim Museum",
+    "category": "Museum",
+    "address": "New York, NY 10162",
+    "latitude": 40.742163,
+    "longitude": -73.939322,
+    "description": "구겐하임 미술관은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "블루보틀 커피",
+    "name_en": "Blue Bottle Coffee",
+    "category": "Cafe",
+    "address": "New York, NY 10163",
+    "latitude": 40.740357,
+    "longitude": -74.007263,
+    "description": "블루보틀 커피은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "르 버나딘",
+    "name_en": "Le Bernardin",
+    "category": "Restaurant",
+    "address": "New York, NY 10164",
+    "latitude": 40.707628,
+    "longitude": -73.975058,
+    "description": "르 버나딘은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "타임스퀘어",
+    "name_en": "Times Square",
+    "category": "Landmark",
+    "address": "New York, NY 10165",
+    "latitude": 40.809451,
+    "longitude": -73.954972,
+    "description": "타임스퀘어은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "브라이언트 파크",
+    "name_en": "Bryant Park",
+    "category": "Park",
+    "address": "New York, NY 10166",
+    "latitude": 40.753964,
+    "longitude": -73.954624,
+    "description": "브라이언트 파크은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "현대미술관",
+    "name_en": "Museum of Modern Art",
+    "category": "Museum",
+    "address": "New York, NY 10167",
+    "latitude": 40.79525,
+    "longitude": -73.963816,
+    "description": "현대미술관은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "블루보틀 커피",
+    "name_en": "Blue Bottle Coffee",
+    "category": "Cafe",
+    "address": "New York, NY 10168",
+    "latitude": 40.78164,
+    "longitude": -74.000578,
+    "description": "블루보틀 커피은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "르 버나딘",
+    "name_en": "Le Bernardin",
+    "category": "Restaurant",
+    "address": "New York, NY 10169",
+    "latitude": 40.773129,
+    "longitude": -73.934486,
+    "description": "르 버나딘은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "월스트리트 황소상",
+    "name_en": "Charging Bull",
+    "category": "Landmark",
+    "address": "New York, NY 10170",
+    "latitude": 40.815572,
+    "longitude": -74.001419,
+    "description": "월스트리트 황소상은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "브라이언트 파크",
+    "name_en": "Bryant Park",
+    "category": "Park",
+    "address": "New York, NY 10171",
+    "latitude": 40.796995,
+    "longitude": -73.973185,
+    "description": "브라이언트 파크은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "클로이스터스",
+    "name_en": "The Cloisters",
+    "category": "Museum",
+    "address": "New York, NY 10172",
+    "latitude": 40.778657,
+    "longitude": -73.983108,
+    "description": "클로이스터스은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "그래드센트 커피",
+    "name_en": "Ground Central Coffee Company",
+    "category": "Cafe",
+    "address": "New York, NY 10173",
+    "latitude": 40.794139,
+    "longitude": -73.955428,
+    "description": "그래드센트 커피은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "미션 차이나",
+    "name_en": "Mission Chinese Food",
+    "category": "Restaurant",
+    "address": "New York, NY 10174",
+    "latitude": 40.750691,
+    "longitude": -73.974774,
+    "description": "미션 차이나은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "타임스퀘어",
+    "name_en": "Times Square",
+    "category": "Landmark",
+    "address": "New York, NY 10175",
+    "latitude": 40.735184,
+    "longitude": -73.996286,
+    "description": "타임스퀘어은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "워싱턴 스퀘어 파크",
+    "name_en": "Washington Square Park",
+    "category": "Park",
+    "address": "New York, NY 10176",
+    "latitude": 40.812518,
+    "longitude": -73.931852,
+    "description": "워싱턴 스퀘어 파크은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "뉴욕시 박물관",
+    "name_en": "Museum of the City of New York",
+    "category": "Museum",
+    "address": "New York, NY 10177",
+    "latitude": 40.771055,
+    "longitude": -73.936069,
+    "description": "뉴욕시 박물관은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "그래드센트 커피",
+    "name_en": "Ground Central Coffee Company",
+    "category": "Cafe",
+    "address": "New York, NY 10178",
+    "latitude": 40.798714,
+    "longitude": -73.936042,
+    "description": "그래드센트 커피은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "카츠 델리",
+    "name_en": "Katz's Delicatessen",
+    "category": "Restaurant",
+    "address": "New York, NY 10179",
+    "latitude": 40.703016,
+    "longitude": -73.930825,
+    "description": "카츠 델리은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "브루클린 브리지",
+    "name_en": "Brooklyn Bridge",
+    "category": "Landmark",
+    "address": "New York, NY 10180",
+    "latitude": 40.755986,
+    "longitude": -73.965986,
+    "description": "브루클린 브리지은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "배터리 파크",
+    "name_en": "Battery Park",
+    "category": "Park",
+    "address": "New York, NY 10181",
+    "latitude": 40.737924,
+    "longitude": -73.999594,
+    "description": "배터리 파크은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "뉴욕시 박물관",
+    "name_en": "Museum of the City of New York",
+    "category": "Museum",
+    "address": "New York, NY 10182",
+    "latitude": 40.769565,
+    "longitude": -73.964004,
+    "description": "뉴욕시 박물관은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "스타벅스 리저브",
+    "name_en": "Starbucks Reserve",
+    "category": "Cafe",
+    "address": "New York, NY 10183",
+    "latitude": 40.802038,
+    "longitude": -74.006856,
+    "description": "스타벅스 리저브은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "르 버나딘",
+    "name_en": "Le Bernardin",
+    "category": "Restaurant",
+    "address": "New York, NY 10184",
+    "latitude": 40.739642,
+    "longitude": -73.957267,
+    "description": "르 버나딘은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "록펠러 센터",
+    "name_en": "Rockefeller Center",
+    "category": "Landmark",
+    "address": "New York, NY 10185",
+    "latitude": 40.763859,
+    "longitude": -73.957403,
+    "description": "록펠러 센터은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "배터리 파크",
+    "name_en": "Battery Park",
+    "category": "Park",
+    "address": "New York, NY 10186",
+    "latitude": 40.816786,
+    "longitude": -74.017621,
+    "description": "배터리 파크은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "휘트니 미술관",
+    "name_en": "Whitney Museum of American Art",
+    "category": "Museum",
+    "address": "New York, NY 10187",
+    "latitude": 40.717662,
+    "longitude": -74.01981,
+    "description": "휘트니 미술관은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "세븐 그램 커피",
+    "name_en": "Seven Grams Caffe",
+    "category": "Cafe",
+    "address": "New York, NY 10188",
+    "latitude": 40.769683,
+    "longitude": -73.984854,
+    "description": "세븐 그램 커피은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "카츠 델리",
+    "name_en": "Katz's Delicatessen",
+    "category": "Restaurant",
+    "address": "New York, NY 10189",
+    "latitude": 40.735805,
+    "longitude": -73.946391,
+    "description": "카츠 델리은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "엠파이어 스테이트 빌딩",
+    "name_en": "Empire State Building",
+    "category": "Landmark",
+    "address": "New York, NY 10190",
+    "latitude": 40.727233,
+    "longitude": -73.944676,
+    "description": "엠파이어 스테이트 빌딩은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "배터리 파크",
+    "name_en": "Battery Park",
+    "category": "Park",
+    "address": "New York, NY 10191",
+    "latitude": 40.775272,
+    "longitude": -73.946863,
+    "description": "배터리 파크은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "현대미술관",
+    "name_en": "Museum of Modern Art",
+    "category": "Museum",
+    "address": "New York, NY 10192",
+    "latitude": 40.788082,
+    "longitude": -73.992914,
+    "description": "현대미술관은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "세븐 그램 커피",
+    "name_en": "Seven Grams Caffe",
+    "category": "Cafe",
+    "address": "New York, NY 10193",
+    "latitude": 40.78553,
+    "longitude": -73.973883,
+    "description": "세븐 그램 커피은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "루벤스",
+    "name_en": "Rubens",
+    "category": "Restaurant",
+    "address": "New York, NY 10194",
+    "latitude": 40.705433,
+    "longitude": -73.939516,
+    "description": "루벤스은(는) 뉴욕의 유명한 restaurant입니다."
+    },
+    {
+    "name_kr": "엠파이어 스테이트 빌딩",
+    "name_en": "Empire State Building",
+    "category": "Landmark",
+    "address": "New York, NY 10195",
+    "latitude": 40.795848,
+    "longitude": -74.018493,
+    "description": "엠파이어 스테이트 빌딩은(는) 뉴욕의 유명한 landmark입니다."
+    },
+    {
+    "name_kr": "루즈벨트 아일랜드 파크",
+    "name_en": "Roosevelt Island Park",
+    "category": "Park",
+    "address": "New York, NY 10196",
+    "latitude": 40.739851,
+    "longitude": -73.960516,
+    "description": "루즈벨트 아일랜드 파크은(는) 뉴욕의 유명한 park입니다."
+    },
+    {
+    "name_kr": "구겐하임 미술관",
+    "name_en": "Guggenheim Museum",
+    "category": "Museum",
+    "address": "New York, NY 10197",
+    "latitude": 40.808594,
+    "longitude": -73.999135,
+    "description": "구겐하임 미술관은(는) 뉴욕의 유명한 museum입니다."
+    },
+    {
+    "name_kr": "스타벅스 리저브",
+    "name_en": "Starbucks Reserve",
+    "category": "Cafe",
+    "address": "New York, NY 10198",
+    "latitude": 40.80476,
+    "longitude": -73.970505,
+    "description": "스타벅스 리저브은(는) 뉴욕의 유명한 cafe입니다."
+    },
+    {
+    "name_kr": "미션 차이나",
+    "name_en": "Mission Chinese Food",
+    "category": "Restaurant",
+    "address": "New York, NY 10199",
+    "latitude": 40.8077,
+    "longitude": -73.952177,
+    "description": "미션 차이나은(는) 뉴욕의 유명한 restaurant입니다."
+    }
+]
