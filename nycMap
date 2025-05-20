@@ -1,71 +1,41 @@
 const places = [
-  // Landmark (무료)
   { id: 1, name_en: "Statue of Liberty", category: "Landmark", entrance_fee: false, address: "Liberty Island, New York, NY 10004", latitude: 40.689249, longitude: -74.0445 },
   { id: 2, name_en: "Brooklyn Bridge", category: "Landmark", entrance_fee: false, address: "Brooklyn Bridge, New York, NY 10038", latitude: 40.706086, longitude: -73.996864 },
   { id: 3, name_en: "Times Square", category: "Landmark", entrance_fee: false, address: "Manhattan, NY 10036", latitude: 40.758896, longitude: -73.985130 },
   { id: 4, name_en: "High Line Park", category: "Landmark", entrance_fee: false, address: "New York, NY 10011", latitude: 40.747993, longitude: -74.004765 },
   { id: 5, name_en: "Washington Square Park", category: "Landmark", entrance_fee: false, address: "Washington Square, New York, NY 10012", latitude: 40.730823, longitude: -73.997332 },
-
-  // Museum (입장료 있음)
   { id: 6, name_en: "The Metropolitan Museum of Art", category: "Museum", entrance_fee: true, address: "1000 5th Ave, New York, NY 10028", latitude: 40.779437, longitude: -73.963244 },
   { id: 7, name_en: "American Museum of Natural History", category: "Museum", entrance_fee: true, address: "Central Park West & 79th St, New York, NY 10024", latitude: 40.781324, longitude: -73.973988 },
   { id: 8, name_en: "Museum of the City of New York", category: "Museum", entrance_fee: true, address: "1220 5th Ave, New York, NY 10029", latitude: 40.792564, longitude: -73.951546 },
   { id: 9, name_en: "New York Transit Museum", category: "Museum", entrance_fee: true, address: "99 Schermerhorn St, Brooklyn, NY 11201", latitude: 40.690230, longitude: -73.989521 },
   { id: 10, name_en: "The Morgan Library & Museum", category: "Museum", entrance_fee: true, address: "225 Madison Ave, New York, NY 10016", latitude: 40.749175, longitude: -73.981789 },
-
-  // Park (무료)
   { id: 11, name_en: "Central Park", category: "Park", entrance_fee: false, address: "New York, NY 10022", latitude: 40.785091, longitude: -73.968285 },
   { id: 12, name_en: "Prospect Park", category: "Park", entrance_fee: false, address: "Brooklyn, NY 11225", latitude: 40.660204, longitude: -73.968956 },
   { id: 13, name_en: "Bryant Park", category: "Park", entrance_fee: false, address: "New York, NY 10018", latitude: 40.753597, longitude: -73.983233 },
   { id: 14, name_en: "Riverside Park", category: "Park", entrance_fee: false, address: "New York, NY 10024", latitude: 40.800676, longitude: -73.970833 },
   { id: 15, name_en: "Battery Park", category: "Park", entrance_fee: false, address: "New York, NY 10004", latitude: 40.703277, longitude: -74.017028 },
-
-  // Art Gallery (입장료 있음)
   { id: 16, name_en: "Museum of Modern Art (MoMA)", category: "Art Gallery", entrance_fee: true, address: "11 W 53rd St, New York, NY 10019", latitude: 40.761436, longitude: -73.977621 },
   { id: 17, name_en: "Whitney Museum of American Art", category: "Art Gallery", entrance_fee: true, address: "99 Gansevoort St, New York, NY 10014", latitude: 40.739587, longitude: -74.008863 },
   { id: 18, name_en: "Guggenheim Museum", category: "Art Gallery", entrance_fee: true, address: "1071 5th Ave, New York, NY 10128", latitude: 40.783001, longitude: -73.959007 },
   { id: 19, name_en: "Neue Galerie", category: "Art Gallery", entrance_fee: true, address: "1048 5th Ave, New York, NY 10028", latitude: 40.781222, longitude: -73.958268 },
   { id: 20, name_en: "The Frick Collection", category: "Art Gallery", entrance_fee: true, address: "1 E 70th St, New York, NY 10021", latitude: 40.771269, longitude: -73.967533 },
-
-  // Restaurant (무료 입장)
   { id: 21, name_en: "Le Bernardin", category: "Restaurant", entrance_fee: false, address: "155 W 51st St, New York, NY 10019", latitude: 40.761557, longitude: -73.981663 },
   { id: 22, name_en: "Katz's Delicatessen", category: "Restaurant", entrance_fee: false, address: "205 E Houston St, New York, NY 10002", latitude: 40.722233, longitude: -73.987342 },
   { id: 23, name_en: "Joe's Pizza", category: "Restaurant", entrance_fee: false, address: "7 Carmine St, New York, NY 10014", latitude: 40.730599, longitude: -74.002684 },
   { id: 24, name_en: "Shake Shack", category: "Restaurant", entrance_fee: false, address: "Madison Ave & E 23rd St, New York, NY 10010", latitude: 40.741448, longitude: -73.988135 },
   { id: 25, name_en: "Eataly NYC Flatiron", category: "Restaurant", entrance_fee: false, address: "200 5th Ave, New York, NY 10010", latitude: 40.741597, longitude: -73.989218 },
-
-  // 추가 Landmark (무료)
   { id: 26, name_en: "Grand Central Terminal", category: "Landmark", entrance_fee: false, address: "89 E 42nd St, New York, NY 10017", latitude: 40.752726, longitude: -73.977229 },
   { id: 27, name_en: "Rockefeller Center", category: "Landmark", entrance_fee: false, address: "45 Rockefeller Plaza, New York, NY 10111", latitude: 40.758740, longitude: -73.978674 },
   { id: 28, name_en: "St. Patrick's Cathedral", category: "Landmark", entrance_fee: false, address: "5th Ave, New York, NY 10022", latitude: 40.758465, longitude: -73.975993 },
   { id: 29, name_en: "Flatiron Building", category: "Landmark", entrance_fee: false, address: "175 5th Ave, New York, NY 10010", latitude: 40.741061, longitude: -73.989699 },
   { id: 30, name_en: "One World Trade Center", category: "Landmark", entrance_fee: false, address: "285 Fulton St, New York, NY 10007", latitude: 40.712743, longitude: -74.013379 },
-
-  // 추가 Museum (입장료 있음)
   { id: 31, name_en: "The Cloisters", category: "Museum", entrance_fee: true, address: "99 Margaret Corbin Dr, New York, NY 10040", latitude: 40.8649, longitude: -73.9316 },
   { id: 32, name_en: "Intrepid Sea, Air & Space Museum", category: "Museum", entrance_fee: true, address: "Pier 86, W 46th St, New York, NY 10036", latitude: 40.7645, longitude: -73.9996 },
   { id: 33, name_en: "National Museum of the American Indian", category: "Museum", entrance_fee: true, address: "1 Bowling Green, New York, NY 10004", latitude: 40.703277, longitude: -74.013940 },
   { id: 34, name_en: "New Museum", category: "Museum", entrance_fee: true, address: "235 Bowery, New York, NY 10002", latitude: 40.722337, longitude: -73.992573 },
   { id: 35, name_en: "Museum of Jewish Heritage", category: "Museum", entrance_fee: true, address: "36 Battery Pl, New York, NY 10280", latitude: 40.711552, longitude: -74.015870 },
-
-  // 추가 Park (무료)
   { id: 36, name_en: "Hudson River Park", category: "Park", entrance_fee: false, address: "New York, NY 10014", latitude: 40.739713, longitude: -74.010380 },
   { id: 37, name_en: "Fort Tryon Park", category: "Park", entrance_fee: false, address: "New York, NY 10040", latitude: 40.8629, longitude: -73.9312 },
   { id: 38, name_en: "McCarren Park", category: "Park", entrance_fee: false, address: "Brooklyn, NY 11222", latitude: 40.7216, longitude: -73.9523 },
   { id: 39, name_en: "Socrates Sculpture Park", category: "Park", entrance_fee: false, address: "32-01 Vernon Blvd, Queens, NY 11106", latitude: 40.7681, longitude: -73.9410 },
-  { id: 40, name_en: "Flushing Meadows Corona Park", category: "Park", entrance_fee: false, address: "Queens, NY 11368", latitude: 40.7498, longitude: -73.8408 },
-
-  // 추가 Art Gallery (입장료 있음)
-  { id: 41, name_en: "Brooklyn Museum", category: "Art Gallery", entrance_fee: true, address: "200 Eastern Pkwy, Brooklyn, NY 11238", latitude: 40.671206, longitude: -73.963631 },
-  { id: 42, name_en: "Asia Society Museum", category: "Art Gallery", entrance_fee: true, address: "725 Park Ave, New York, NY 10021", latitude: 40.7675, longitude: -73.9660 },
-  { id: 43, name_en: "SculptureCenter", category: "Art Gallery", entrance_fee: true, address: "44-19 Purves St, Queens, NY 11101", latitude: 40.7454, longitude: -73.9338 },
-  { id: 44, name_en: "Pace Gallery", category: "Art Gallery", entrance_fee: true, address: "510 W 25th St, New York, NY 10001", latitude: 40.7492, longitude: -74.0064 },
-  { id: 45, name_en: "David Zwirner Gallery", category: "Art Gallery", entrance_fee: true, address: "525 W 19th St, New York, NY 10011", latitude: 40.7464, longitude: -74.0055 },
-
-  // 추가 Restaurant (무료 입장)
-  { id: 46, name_en: "Gramercy Tavern", category: "Restaurant", entrance_fee: false, address: "42 E 20th St, New York, NY 10003", latitude: 40.7385, longitude: -73.9882 },
-  { id: 47, name_en: "Daniel", category: "Restaurant", entrance_fee: false, address: "60 E 65th St, New York, NY 10065", latitude: 40.7662, longitude: -73.9677 },
-  { id: 48, name_en: "The Modern", category: "Restaurant", entrance_fee: false, address: "9 W 53rd St, New York, NY 10019", latitude: 40.7616, longitude: -73.9776 },
-  { id: 49, name_en: "Per Se", category: "Restaurant", entrance_fee: false, address: "10 Columbus Cir, New York, NY 10019", latitude: 40.7681, longitude: -73.9826 },
-  { id: 50, name_en: "Carbone", category: "Restaurant", entrance_fee: false, address: "181 Thompson St, New York, NY 10012", latitude: 40.7284, longitude: -74.0008 },
-];
+  { id: 40, name_en: "Flushing Meadows Corona Park", category: "Park
